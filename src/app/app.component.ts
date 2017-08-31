@@ -44,7 +44,7 @@ export class AppComponent {
             this.studentRecord = {  
                 studNumber: this.studNo,
                 studFirstName: this.studFName,
-                studFLastName: this.studLName,
+                studLastName: this.studLName,
                 studProgram: this.studProg,
                 studYear: this.studYear
     
